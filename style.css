@@ -1,0 +1,88 @@
+.a {
+    background-color: rgb(185, 185, 255);
+    border-radius: 25px;
+    border: 2px solid red;
+    text-align: center;
+}
+
+.b {
+    color: red;
+}
+
+.c {
+    color: rgb(8, 231, 94);
+}
+
+.d {
+    background-color: yellow;
+    color: darkgreen;
+    text-align: center;
+}
+
+.e {
+    background-color: yellow;
+    color: darkgreen;
+    text-align: center;
+}
+
+.f {
+    background-color: black;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.g {
+    color: rgb(1, 126, 1);
+}
+
+.h {
+    background-color: rgb(138, 138, 252);
+    width="35px" height="10px"
+}
+
+.v {
+    background-color: yellow;
+    text-align: center;
+    color: darkgreen;
+}
+
+#z {
+
+    background-color: red;
+    color: white;
+}
+
+#x {
+
+    background-color: black;
+    color: white;
+}
+
+#c {
+    background-color: green;
+    color: white;
+
+}
+
+#v {
+    background-color: blue;
+    color: white;
+
+}
+
+table {
+    width: 100%;
+}
+
+tr,
+table,
+td,
+th {
+    border: black;
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+
+#o {
+    width: 100%;
+}
